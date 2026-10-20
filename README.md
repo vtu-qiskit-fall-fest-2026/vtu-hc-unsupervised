@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Unsupervised** · Team ID `VTU-QFF-HC-0049` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Unsupervised)
+[⬆ Back to Top](#unsupervised)
 
 </div>
